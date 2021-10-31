@@ -23,7 +23,7 @@ ul li{
     color: #21B573;
 }
 .carousel-content{
-   height: 400px;
+   height: 300px;
 }
 .first-icons-style div{
     background-color: chartreuse;
@@ -32,12 +32,18 @@ ul li{
     text-align: center;
 }
 .card{
-   border: none!important; 
+    border: none!important; 
+}
+#id-hover{
    background-color: #F8FFFB!important;
    transition-duration: 0.5s;
    cursor: pointer;
 }
-.card:hover{
+#id-hover:hover{
     background-color: white!important;
     box-shadow: 0px 0px 25px -10px black;
+}
+#online-course-shadow{
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px -12px!important;
 }
