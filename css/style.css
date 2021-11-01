@@ -1,5 +1,7 @@
-.container-fluid{
+section{
     margin-bottom: 80px;
+}
+.container-fluid{
     padding-bottom: 20px;
 }
 .topbar-bg{
@@ -54,4 +56,24 @@ ul li{
 }
 .testimonial p{
     font-weight: 500;
+}
+.list-unstyled li a{
+    text-decoration: none;
+    color: honeydew;
+}
+.list-unstyled li {
+    line-height: 35px;
+}
+footer{
+ background-color: #282531;
+ padding: 50px 0px; 
+}
+small{
+    display: block;
+    text-align: center;
+    color: white;
+}
+small a{
+    text-decoration: none;
+    color: greenyellow;
 }
