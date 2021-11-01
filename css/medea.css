@@ -13,5 +13,10 @@
 @media (max-width: 768px) {
     .carousel-content{
         height: 570px;
+    }
+}
+@media (max-width: 992px) {
+    .testimonial{
+        width: 100%;
      }
 }
