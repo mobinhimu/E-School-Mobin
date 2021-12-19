@@ -7,12 +7,24 @@ section{
 .topbar-bg{
     background-color: #F0FFF0;
 }
+.GAYNGHORE {
+    max-width: 200px;
+}
 .sign-in{
     background-color: #21B573;
     border-radius: 50px;
     padding: 8px 25px;
     border: none;
     color: white;
+}
+.sign-in a{
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+}
+.sign-in a:hover{
+    color: white;
+    font-weight: 600;
 }
 ul li{
     font-weight: 500;
@@ -80,4 +92,7 @@ small a{
 small a:hover{
     text-decoration: none;
     color: rgb(119, 197, 3);
+}
+.imageRadious{
+    border-radius: 50px;
 }
